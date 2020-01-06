@@ -1,7 +1,7 @@
-const mix = require('laravel-mix');
+const mix = require("laravel-mix");
 
-require('laravel-mix-tailwind');
-require('laravel-mix-purgecss');
+require("laravel-mix-tailwind");
+require("laravel-mix-purgecss");
 
 /*
  |--------------------------------------------------------------------------
@@ -14,12 +14,16 @@ require('laravel-mix-purgecss');
  |
  */
 
-mix.js('resources/js/app.js', 'public/js')
-   .postCss('resources/css/app.css', 'public/css')
-   .tailwind('./tailwind.config.js');
+mix.js("resources/js/app.js", "public/js")
+    .postCss("resources/css/app.css", "public/css")
+    .tailwind("./tailwind.config.js");
+
+mix.browserSync({
+    port: 8080,
+    proxy: "localhost:8000",
+    open: false
+});
 
 if (mix.inProduction()) {
-  mix
-   .version()
-   .purgeCss();
+    mix.version().purgeCss();
 }
