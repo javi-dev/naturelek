@@ -21,7 +21,8 @@ mix.js("resources/js/app.js", "public/js")
 mix.browserSync({
     port: 8080,
     proxy: "localhost:8000",
-    open: false
+    open: false,
+    notify:false,
 });
 
 if (mix.inProduction()) {
