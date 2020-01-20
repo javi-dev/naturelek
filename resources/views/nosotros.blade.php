@@ -19,7 +19,7 @@
     <nav>
     </nav>
     <div class="w-full p-4 lg:hidden">
-        <div class="relative" x-data="{ open: false }">
+        <div class="relative" x-data="{ open: false }" x-cloak>
             <svg class="absolute right-0 w-6 h-6 m-2" @click="open = true" viewBox="0 0 20 20"
                 xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
