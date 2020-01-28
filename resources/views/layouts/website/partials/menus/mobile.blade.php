@@ -26,7 +26,7 @@
                 </svg>
             </div>
 
-            <div x-show="open">
+            <div x-show="open" class="mt-2">
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Naturelek contigo</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Trabaja con nosotros</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Casos de éxito</a>
@@ -48,7 +48,7 @@
                 </svg>
             </div>
 
-            <div x-show="open">
+            <div x-show="open" class="mt-2">
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Público</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Inmobiliario (comunidad de propietarios)</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Hostelería</a>
@@ -72,7 +72,7 @@
                 </svg>
             </div>
 
-            <div x-show="open">
+            <div x-show="open" class="mt-2">
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Gestión energética</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Autoconsumo</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Iluminación LED</a>
@@ -116,7 +116,7 @@
                 </svg>
             </div>
 
-            <div x-show="open">
+            <div x-show="open" class="mt-2">
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Auditorías</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Eficiencia energética</a>
             </div>
@@ -127,7 +127,7 @@
         <a href="#" class="block py-4 font-bold hover:text-gray-900">Contacto</a>
     </div>
 
-    <div class="pt-4 border-t border-gray-500">
+    <div class="py-4 border-t border-gray-500">
         <div x-data="{ open: false }">
             <div class="flex justify-between"> <span class="font-bold">Acceso</span>
                 <svg x-show="!open" @click="open = true" class="w-6 h-6 cursor-pointer fill-current" viewBox="0 0 20 20"
@@ -140,7 +140,7 @@
                 </svg>
             </div>
 
-            <div x-show="open">
+            <div x-show="open" class="mt-2">
                 <a href="http://naturelek.wolfcrm.es/index.php" class="block px-4 py-2 hover:text-gray-900">CRM</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Usuarios</a>
                 <a href="http://medidas.naturelek.com/" class="block px-4 py-2 hover:text-gray-900">Telemedidas</a>
@@ -161,7 +161,7 @@
                 </svg>
             </div>
 
-            <div x-show="open">
+            <div x-show="open" class="mt-2">
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Colaborador</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Comercial</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Naturelek Contigo</a>
@@ -169,7 +169,7 @@
         </div>
 
         <div x-data="{ open: false }">
-            <div class="flex justify-between py-4">
+            <div class="flex justify-between pt-4">
                 <span class="font-bold">Idiomas</span>
 
                 <svg x-show="!open" @click="open = true" class="w-6 h-6 cursor-pointer fill-current" viewBox="0 0 20 20"
@@ -182,8 +182,8 @@
                 </svg>
             </div>
 
-            <div x-show="open">
-                <a href="#" class="block px-4 pb-2 hover:text-gray-900">Inglés</a>
+            <div x-show="open" class="mt-2">
+                <a href="#" class="block px-4 py-2 hover:text-gray-900">Inglés</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Euskera</a>
             </div>
         </div>
