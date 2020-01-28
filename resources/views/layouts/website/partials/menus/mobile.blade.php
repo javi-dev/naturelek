@@ -99,6 +99,8 @@
                         <a href="#" class="block px-4 py-2 hover:text-gray-900">Electrolineras</a>
                     </div>
                 </div>
+
+                <a href="#" class="block px-4 py-2 hover:text-gray-900">Financiación e inversión</a>
             </div>
         </div>
 
@@ -121,10 +123,6 @@
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Eficiencia energética</a>
             </div>
         </div>
-
-        <a href="#" class="block pt-4 font-bold hover:text-gray-900">FFQQ Naturelek contigo</a>
-
-        <a href="#" class="block pt-4 font-bold hover:text-gray-900">Financiación e inversión</a>
 
         <a href="#" class="block pt-4 font-bold hover:text-gray-900">Noticias</a>
 

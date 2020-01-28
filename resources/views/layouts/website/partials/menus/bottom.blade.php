@@ -67,6 +67,7 @@
                 LED</a>
             <a href="#"
                 class="block px-8 py-4 border-l-4 border-transparent hover:text-gray-900 hover:border-green-500">Monitorización</a>
+
             <div x-data="{ open: false }" @mouseover="open = true" @mouseout="open = false">
                 <div
                     class="px-8 py-4 border-l-4 border-transparent cursor-pointer hover:text-gray-900 hover:border-green-500">
@@ -90,6 +91,9 @@
                 </div>
             </div>
 
+            <a href="#"
+                class="block px-8 py-4 border-l-4 border-transparent hover:text-gray-900 hover:border-green-500">Financiación
+                e inversión</a>
         </div>
     </div>
 
@@ -108,10 +112,6 @@
                 energética</a>
         </div>
     </div>
-
-    <a href="#" class="pb-2 ml-10 hover:text-gray-900">FFQQ Naturelek contigo</a>
-
-    <a href="#" class="pb-2 ml-10 hover:text-gray-900">Financiación e inversión</a>
 
     <a href="#" class="pb-2 ml-10 hover:text-gray-900">Noticias</a>
 
