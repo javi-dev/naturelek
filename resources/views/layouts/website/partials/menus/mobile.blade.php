@@ -13,7 +13,7 @@
         <a href="#" class="block font-bold hover:text-gray-900">Inicio</a>
 
         <div x-data="{ open: false }">
-            <div class="flex justify-between pt-4 ">
+            <div class="flex justify-between pt-4">
                 <a href="/nosotros" class="font-bold hover:text-gray-900">Nosotros</a>
 
                 <svg x-show="!open" @click="open = true" class="w-6 h-6 cursor-pointer fill-current" viewBox="0 0 20 20"
@@ -26,7 +26,6 @@
                 </svg>
             </div>
 
-
             <div x-show="open">
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Naturelek contigo</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Trabaja con nosotros</a>
@@ -36,7 +35,7 @@
         </div>
 
         <div x-data="{ open: false }">
-            <div class="flex justify-between pt-4 ">
+            <div class="flex justify-between pt-4">
                 <a href="#" class="font-bold hover:text-gray-900">Sectores</a>
 
                 <svg x-show="!open" @click="open = true" class="w-6 h-6 cursor-pointer fill-current" viewBox="0 0 20 20"
@@ -48,10 +47,10 @@
                     <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
                 </svg>
             </div>
+
             <div x-show="open">
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Público</a>
-                <a href="#" class="block px-4 py-2 hover:text-gray-900">Inmobiliario (comunidad de
-                    propietarios)</a>
+                <a href="#" class="block px-4 py-2 hover:text-gray-900">Inmobiliario (comunidad de propietarios)</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Hostelería</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Industria</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Agrario</a>
@@ -61,7 +60,7 @@
         </div>
 
         <div x-data="{ open: false }">
-            <div class="flex justify-between pt-4 ">
+            <div class="flex justify-between pt-4">
                 <a href="#" class="font-bold hover:text-gray-900">Servicios</a>
                 <svg x-show="!open" @click="open = true" class="w-6 h-6 cursor-pointer fill-current" viewBox="0 0 20 20"
                     xmlns="http://www.w3.org/2000/svg">
@@ -115,7 +114,6 @@
                     xmlns="http://www.w3.org/2000/svg">
                     <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
                 </svg>
-
             </div>
 
             <div x-show="open">
@@ -141,12 +139,14 @@
                     <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
                 </svg>
             </div>
+
             <div x-show="open">
                 <a href="http://naturelek.wolfcrm.es/index.php" class="block px-4 py-2 hover:text-gray-900">CRM</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Usuarios</a>
                 <a href="http://medidas.naturelek.com/" class="block px-4 py-2 hover:text-gray-900">Telemedidas</a>
             </div>
         </div>
+
         <div x-data="{ open: false }">
             <div class="flex justify-between pt-4">
                 <a href="#" class="font-bold hover:text-gray-900">Trabaja con nosotros</a>
@@ -167,6 +167,7 @@
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Naturelek Contigo</a>
             </div>
         </div>
+
         <div x-data="{ open: false }">
             <div class="flex justify-between py-4">
                 <span class="font-bold">Idiomas</span>
@@ -180,6 +181,7 @@
                     <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
                 </svg>
             </div>
+
             <div x-show="open">
                 <a href="#" class="block px-4 pb-2 hover:text-gray-900">Inglés</a>
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Euskera</a>
