@@ -58,6 +58,29 @@
                 <div class="text-center">100</div>
             </div>
         </div>
+
+        <div class="flex justify-between mt-24">
+            <div class="flex flex-col px-2">
+                <div class="w-16 h-16 bg-gray-900 rounded-lg"></div>
+                <div class="text-center">900</div>
+            </div>
+            <div class="flex flex-col px-2">
+                <div class="w-16 h-16 bg-gray-700 rounded-lg"></div>
+                <div class="text-center">700</div>
+            </div>
+            <div class="flex flex-col px-2">
+                <div class="w-16 h-16 bg-gray-500 rounded-lg"></div>
+                <div class="text-center">500</div>
+            </div>
+            <div class="flex flex-col px-2">
+                <div class="w-16 h-16 bg-gray-300 rounded-lg"></div>
+                <div class="text-center">300</div>
+            </div>
+            <div class="flex flex-col px-2">
+                <div class="w-16 h-16 bg-gray-100 rounded-lg"></div>
+                <div class="text-center">100</div>
+            </div>
+        </div>
     </div>
 
     <script src="{{ mix('js/app.js') }}"></script>
