@@ -3,12 +3,12 @@
 @section('title', 'Nosotros - Naturelek')
 
 @section('content')
-<div class="bg-white">
+<div class="text-gray-900 bg-white bg-gray-100">
     <div class="max-w-4xl mx-auto">
         <div class="px-2 pt-10">
             <img src="https://res.cloudinary.com/jaquanor/image/upload/v1579469565/naturelek/photo-1497366754035-f200968a6e72_yzznte.jpg"
                 alt="Oficinas">
-            <h1 class="text-4xl font-black text-gray-900">Nosotros</h1>
+            <h1 class="text-4xl font-black tracking-tight text-gray-700">Nosotros</h1>
             <p class="mt-4 text-xs leading-loose text-justify md:text-lg md:leading-normal">
                 Naturelek Consulting es una consultoría energética con gran proyección, cuyo nombre fue creado en junio
                 del 2016. Anteriormente ya contábamos con la experiencia en la gestión de los recursos energéticos de
@@ -26,7 +26,7 @@
         <div class="pt-10">
             <img src="https://res.cloudinary.com/jaquanor/image/upload/v1579469511/naturelek/photo-1557804506-669a67965ba0_onzftu.jpg"
                 alt="Equipo">
-            <h1 class="text-4xl font-black text-gray-900">¿Qué ofrecemos?</h1>
+            <h1 class="text-4xl font-black tracking-tight text-gray-700">¿Qué ofrecemos?</h1>
             <p class="mt-4 text-xs leading-loose text-justify md:text-lg md:leading-normal">
                 En Naturelek Consulting estamos especializados tanto en el cliente particular como en asociaciones y
                 grandes empresas. Te ofrecemos un servicio de gestión integral donde se incluye la revisión y análisis

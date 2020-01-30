@@ -18,7 +18,7 @@
 <body class="bg-gray-200">
     @include('layouts.website.partials.menus.top')
 
-    <h2 class="hidden text-6xl font-semibold text-center lg:block">Naturelek</h2>
+    <h2 class="hidden text-6xl font-semibold tracking-tighter text-center text-gray-900 lg:block">Naturelek</h2>
 
     @include('layouts.website.partials.menus.bottom')
 
