@@ -3,7 +3,7 @@
 @section('title', 'Nosotros - Naturelek')
 
 @section('content')
-<div class="text-gray-900 bg-white bg-gray-100">
+<div class="text-gray-900 bg-gray-100">
     <div class="max-w-4xl mx-auto">
         <div class="px-2 pt-10">
             <img src="https://res.cloudinary.com/jaquanor/image/upload/v1579469565/naturelek/photo-1497366754035-f200968a6e72_yzznte.jpg"
