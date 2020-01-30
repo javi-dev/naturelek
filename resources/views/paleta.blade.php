@@ -10,7 +10,7 @@
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
 </head>
 
-<body class="bg-gray-400">
+<body class="">
     <div class="container flex flex-col items-center justify-center mx-auto mt-24">
         <button class="px-5 py-2 font-semibold tracking-wider text-white uppercase bg-green-500 rounded-lg">Get
             started</button>
@@ -65,16 +65,32 @@
                 <div class="text-center">900</div>
             </div>
             <div class="flex flex-col px-2">
+                <div class="w-16 h-16 bg-gray-800 rounded-lg"></div>
+                <div class="text-center">800</div>
+            </div>
+            <div class="flex flex-col px-2">
                 <div class="w-16 h-16 bg-gray-700 rounded-lg"></div>
                 <div class="text-center">700</div>
+            </div>
+            <div class="flex flex-col px-2">
+                <div class="w-16 h-16 bg-gray-600 rounded-lg"></div>
+                <div class="text-center">600</div>
             </div>
             <div class="flex flex-col px-2">
                 <div class="w-16 h-16 bg-gray-500 rounded-lg"></div>
                 <div class="text-center">500</div>
             </div>
             <div class="flex flex-col px-2">
+                <div class="w-16 h-16 bg-gray-400 rounded-lg"></div>
+                <div class="text-center">400</div>
+            </div>
+            <div class="flex flex-col px-2">
                 <div class="w-16 h-16 bg-gray-300 rounded-lg"></div>
                 <div class="text-center">300</div>
+            </div>
+            <div class="flex flex-col px-2">
+                <div class="w-16 h-16 bg-gray-200 rounded-lg"></div>
+                <div class="text-center">200</div>
             </div>
             <div class="flex flex-col px-2">
                 <div class="w-16 h-16 bg-gray-100 rounded-lg"></div>
