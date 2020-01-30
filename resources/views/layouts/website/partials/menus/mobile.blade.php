@@ -79,7 +79,7 @@
                 <a href="#" class="block px-4 py-2 hover:text-gray-900">Monitorización</a>
 
                 <div x-data="{ open: false }">
-                    <div class="flex justify-between pt-2">
+                    <div class="flex justify-between py-2 pt-2">
                         <a href="#" class="px-4 hover:text-gray-900">Tecnología</a>
                         <svg x-show="!open" @click="open = true" class="w-6 h-6 cursor-pointer fill-current"
                             viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
