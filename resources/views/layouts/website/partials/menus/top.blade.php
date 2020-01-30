@@ -1,4 +1,4 @@
-<nav class="hidden pt-10 pb-3 font-bold text-gray-500 whitespace-no-wrap lg:flex">
+<nav class="hidden pt-10 pb-3 font-bold text-gray-600 whitespace-no-wrap lg:flex">
     <div class="group">
         <div class="flex pb-2 ml-10 cursor-pointer hover:text-gray-900">
             <div>Acceso</div>

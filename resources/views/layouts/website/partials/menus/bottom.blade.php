@@ -1,4 +1,4 @@
-<nav class="hidden pt-10 pb-3 font-bold text-gray-500 whitespace-no-wrap lg:flex">
+<nav class="hidden pt-10 pb-3 font-bold text-gray-600 whitespace-no-wrap lg:flex">
     <a href="/" class="ml-10 hover:text-gray-900">Inicio</a>
 
     <div class="group">
