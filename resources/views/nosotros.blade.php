@@ -23,7 +23,7 @@
             </p>
         </div>
 
-        <div class="pt-10">
+        <div class="px-2 pt-10">
             <img src="https://res.cloudinary.com/jaquanor/image/upload/v1579469511/naturelek/photo-1557804506-669a67965ba0_onzftu.jpg"
                 alt="Equipo">
             <h1 class="text-4xl font-black tracking-tight text-gray-700">¿Qué ofrecemos?</h1>
@@ -39,7 +39,7 @@
             <p class="mt-6 text-xs leading-loose text-justify md:text-lg md:leading-normal">
                 Nuestro compromiso es ofrecer una atención totalmente personalizada a cada necesidad, ofreciendo la
                 mayor gama de productos energéticos del mercado, con operaciones totalmente adaptadas a cada cliente que
-                redunden en la mejora de sus costes y equipamientos energéticos. </p>
+                redunden en la mejora de sus costes y equipamientos energéticos.</p>
             <div class="text-center">
                 <a href="/servicios"
                     class="inline-block p-4 m-4 font-bold text-gray-100 bg-green-700 rounded-lg hover:bg-green-800">Conoce
