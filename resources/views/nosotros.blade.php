@@ -42,7 +42,7 @@
                 redunden en la mejora de sus costes y equipamientos energéticos. </p>
             <div class="text-center">
                 <a href="/servicios"
-                    class="inline-block p-4 m-4 font-bold text-white bg-green-500 rounded-lg hover:bg-green-700">Conoce
+                    class="inline-block p-4 m-4 font-bold text-gray-100 bg-green-700 rounded-lg hover:bg-green-800">Conoce
                     nuestros servicios</a>
             </div>
         </div>
