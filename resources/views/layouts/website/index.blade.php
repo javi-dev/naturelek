@@ -15,12 +15,14 @@
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
 </head>
 
-<body class="bg-gray-200">
-    @include('layouts.website.partials.menus.top')
+<body>
+    <div class="bg-gray-200">
+        @include('layouts.website.partials.menus.top')
 
-    <h2 class="hidden text-6xl font-semibold tracking-tighter text-center text-gray-900 lg:block">Naturelek</h2>
+        <h2 class="hidden text-6xl font-semibold tracking-tighter text-center text-gray-900 lg:block">Naturelek</h2>
 
-    @include('layouts.website.partials.menus.bottom')
+        @include('layouts.website.partials.menus.bottom')
+    </div>
 
     <div x-data="{ open: false }" class="sticky top-0 w-full text-lg whitespace-no-wrap lg:hidden" x-cloak>
         <div class="flex justify-end px-8 py-4 bg-gray-200" x-bind:class="{ 'invisible': open }">
@@ -34,6 +36,8 @@
     </div>
 
     @yield('content')
+
+    @include('layouts.website.partials.footer')
 
     <script src="{{ mix('js/app.js') }}"></script>
 
