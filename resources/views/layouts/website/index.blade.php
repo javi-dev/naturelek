@@ -25,8 +25,8 @@
     </div>
 
     <div x-data="{ open: false }" class="sticky top-0 w-full text-lg whitespace-no-wrap lg:hidden" x-cloak>
-        <div class="flex justify-end px-8 py-4 bg-gray-200" x-bind:class="{ 'invisible': open }">
-            <svg class="w-6 h-6 text-gray-500 cursor-pointer fill-current hover:text-gray-900" @click="open = true"
+        <div class="flex justify-end px-8 py-4 bg-green-500" x-bind:class="{ 'invisible': open }">
+            <svg class="w-6 h-6 text-green-100 cursor-pointer fill-current hover:text-green-900" @click="open = true"
                 viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
             </svg>
