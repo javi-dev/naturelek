@@ -1,4 +1,4 @@
-<nav class="hidden pt-10 pb-3 text-sm font-bold text-gray-600 whitespace-no-wrap lg:flex lg:justify-end">
+<nav class="flex justify-end pt-10 pb-3 text-sm font-bold text-gray-600 whitespace-no-wrap">
     <div class="relative text-right group">
         <div class="flex pb-2 mr-10 cursor-pointer hover:text-gray-900">
             <div>Acceso</div>

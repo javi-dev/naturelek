@@ -1,4 +1,4 @@
-<nav class="justify-between hidden max-w-5xl pt-10 pb-3 mx-auto font-bold text-gray-600 whitespace-no-wrap lg:flex">
+<nav class="flex justify-between max-w-5xl pt-10 pb-3 mx-auto font-bold text-gray-600 whitespace-no-wrap">
     <a href="/" class="hover:text-gray-900">Inicio</a>
 
     <div class="group">
