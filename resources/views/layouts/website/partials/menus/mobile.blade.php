@@ -1,4 +1,4 @@
-<div class="absolute top-0 right-0 w-full max-w-sm px-6 py-2 m-2 font-bold text-gray-500 bg-white rounded-lg shadow-lg"
+<div class="absolute top-0 right-0 w-full max-w-sm px-6 py-2 m-2 mt-8 font-bold text-gray-500 bg-white rounded-lg shadow-lg"
     x-show="open" @click.away="open = false">
 
     <div class="flex justify-end mb-4">
