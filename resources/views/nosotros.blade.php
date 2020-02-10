@@ -26,7 +26,7 @@
         <div class="px-2 pt-10">
             <img src="https://res.cloudinary.com/jaquanor/image/upload/v1579469511/naturelek/photo-1557804506-669a67965ba0_onzftu.jpg"
                 alt="Equipo">
-            <h1 class="text-4xl font-black tracking-tight text-gray-700">¿Qué ofrecemos?</h1>
+            <h2 class="text-4xl font-black tracking-tight text-gray-700">¿Qué ofrecemos?</h2>
             <p class="mt-4 text-justify">
                 En Naturelek Consulting estamos especializados tanto en el cliente particular como en asociaciones y
                 grandes empresas. Te ofrecemos un servicio de gestión integral donde se incluye la revisión y análisis
