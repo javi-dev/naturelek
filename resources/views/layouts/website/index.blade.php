@@ -51,6 +51,8 @@
 
     @include('layouts.website.partials.footer')
 
+    @include('layouts.website.partials.floats')
+
     <script src="{{ mix('js/app.js') }}"></script>
 
 </body>

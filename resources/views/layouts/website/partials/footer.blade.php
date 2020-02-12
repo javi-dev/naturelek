@@ -1,4 +1,5 @@
-<div class="flex flex-wrap items-baseline justify-around py-5 mt-10 leading-loose text-gray-500 bg-gray-900">
+<div
+    class="flex flex-wrap items-baseline justify-around py-5 mt-10 mb-12 leading-loose text-gray-500 bg-gray-900 lg:mb-0">
     <a href="#" class="px-2 py-5 hover:text-gray-200">Copyright</a>
     <a href="#" class="px-2 py-5 hover:text-gray-200">Política de privacidad</a>
     <a href="#" class="px-2 py-5 hover:text-gray-200">Aviso legal</a>
