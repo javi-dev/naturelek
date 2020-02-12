@@ -36,6 +36,11 @@
  * @import "components/forms";
  */
 
+.center-y {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
 /**
  * This injects all of Tailwind's utility classes, generated based on your
  * config file.
