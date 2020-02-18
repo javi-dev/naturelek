@@ -5,14 +5,10 @@
 @section('content')
 <div class="text-gray-900 bg-white">
     <div class="max-w-md mx-auto lg:max-w-6xl lg:px-16">
-        <h1 class="mt-10 ml-2 text-4xl font-black tracking-tight text-gray-700">Nosotros</h1>
-        <div class="flex flex-wrap px-2 pt-2">
-            <div class="lg:w-1/2 ">
-                <img src="https://res.cloudinary.com/jaquanor/image/upload/v1579469565/naturelek/photo-1497366754035-f200968a6e72_yzznte.jpg"
-                    alt="Oficinas">
-            </div>
+        <div class="flex flex-wrap px-2 pt-2 mt-10">
             <div class="w-full lg:w-1/2 lg:pl-16">
-                <p class="mt-4 lg:mt-0">
+                <h1 class="text-4xl font-black tracking-tight text-gray-700">Nosotros</h1>
+                <p class="mt-6">
                     Naturelek Consulting es una consultoría energética con gran proyección, cuyo nombre fue creado en
                     junio del 2016. Anteriormente ya contábamos con la experiencia en la gestión de los recursos
                     energéticos de nuestros clientes desde el año 2010, y desde entonces trabajamos día a día con
@@ -27,11 +23,15 @@
                     La Rioja.
                 </p>
             </div>
+            <div class="self-center mt-6 lg:w-1/2 lg:order-first">
+                <img src="https://res.cloudinary.com/jaquanor/image/upload/v1579469565/naturelek/photo-1497366754035-f200968a6e72_yzznte.jpg"
+                    alt="Oficinas">
+            </div>
         </div>
-        <h2 class="mt-10 ml-2 text-4xl font-black tracking-tight text-gray-700">¿Qué ofrecemos?</h2>
-        <div class="flex flex-wrap px-2 pt-2">
+        <div class="flex flex-wrap px-2 pt-2 mt-10">
             <div class="w-full lg:w-1/2">
-                <p class="mt-4 lg:mt-0">
+                <h2 class="text-4xl font-black tracking-tight text-gray-700">¿Qué ofrecemos?</h2>
+                <p class="mt-6">
                     En Naturelek Consulting estamos especializados tanto en el cliente particular como en asociaciones y
                     grandes empresas. Te ofrecemos un servicio de gestión integral donde se incluye la revisión y
                     análisis de las condiciones contractuales con respecto al actual comercializador, la optimización de
@@ -53,7 +53,7 @@
                     </svg>
                 </a>
             </div>
-            <div class="mt-6 lg:w-1/2 lg:pl-16">
+            <div class="self-center mt-6 lg:w-1/2 lg:pl-16">
                 <img src="https://res.cloudinary.com/jaquanor/image/upload/v1579469511/naturelek/photo-1557804506-669a67965ba0_onzftu.jpg"
                     alt="Equipo">
             </div>
