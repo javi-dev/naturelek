@@ -11,7 +11,7 @@
                 <img src="https://res.cloudinary.com/jaquanor/image/upload/v1579469565/naturelek/photo-1497366754035-f200968a6e72_yzznte.jpg"
                     alt="Oficinas">
             </div>
-            <div class="w-full lg:w-1/2 lg:pl-10">
+            <div class="w-full lg:w-1/2 lg:pl-16">
                 <p class="mt-4 lg:mt-0">
                     Naturelek Consulting es una consultoría energética con gran proyección, cuyo nombre fue creado en
                     junio del 2016. Anteriormente ya contábamos con la experiencia en la gestión de los recursos
@@ -53,7 +53,7 @@
                     </svg>
                 </a>
             </div>
-            <div class="mt-6 lg:w-1/2 lg:pl-10">
+            <div class="mt-6 lg:w-1/2 lg:pl-16">
                 <img src="https://res.cloudinary.com/jaquanor/image/upload/v1579469511/naturelek/photo-1557804506-669a67965ba0_onzftu.jpg"
                     alt="Equipo">
             </div>
