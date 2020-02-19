@@ -5,7 +5,7 @@
 @section('content')
 <div class="text-gray-900 bg-white">
     <div class="max-w-md mx-auto lg:max-w-6xl lg:px-16">
-        <div class="flex flex-wrap px-2 pt-2 mt-10">
+        <div class="flex flex-wrap px-2 mt-10">
             <div class="w-full lg:w-1/2 lg:pl-16">
                 <h1 class="text-4xl font-black tracking-tight text-gray-700">Nosotros</h1>
                 <p class="mt-6">
@@ -28,7 +28,7 @@
                     alt="Oficinas">
             </div>
         </div>
-        <div class="flex flex-wrap px-2 pt-2 mt-10">
+        <div class="flex flex-wrap px-2 mt-10">
             <div class="w-full lg:w-1/2">
                 <h2 class="text-4xl font-black tracking-tight text-gray-700">¿Qué ofrecemos?</h2>
                 <p class="mt-6">
