@@ -58,8 +58,8 @@
                     alt="Equipo">
             </div>
         </div>
-        <div class="flex flex-wrap px-2 mt-10">
-            <div class="w-full lg:w-1/2 lg:pl-16">
+        <div class="px-2 mt-10">
+            <div class="w-full mx-auto text-lg text-center lg:w-3/5">
                 <h1 class="text-4xl font-black tracking-tight text-gray-700">Nuestra experiencia</h1>
                 <p class="mt-6">
                     Más de 30.000 empresas avalan el trabajo de Naturelek Consulting. Somos además la asesoría
@@ -78,7 +78,7 @@
                         Ibiza</a>, y muchas más.
                 </p>
             </div>
-            <div class="grid grid-cols-3 gap-4 mt-6 lg:mt-0 lg:w-1/2 lg:order-first">
+            <div class="grid grid-cols-3 gap-4 mx-auto mt-6 lg:w-5/6">
                 <div class="flex items-center justify-center">
                     <a href="https://www.fvem.es/es/">
                         <img src="https://res.cloudinary.com/jaquanor/image/upload/v1582055818/naturelek/logo-fvem_muvofz.png"
