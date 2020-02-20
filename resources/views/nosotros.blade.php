@@ -5,6 +5,7 @@
 @section('content')
 <div class="text-gray-900 bg-white">
     <div class="max-w-md mx-auto lg:max-w-6xl lg:px-16">
+
         <div class="flex flex-wrap px-2 mt-10">
             <div class="w-full lg:w-1/2 lg:pl-16">
                 <h1 class="text-4xl font-black tracking-tight text-gray-700">Nosotros</h1>
@@ -28,6 +29,7 @@
                     alt="Oficinas">
             </div>
         </div>
+
         <div class="flex flex-wrap px-2 mt-10">
             <div class="w-full lg:w-1/2">
                 <h2 class="text-4xl font-black tracking-tight text-gray-700">¿Qué ofrecemos?</h2>
@@ -58,6 +60,7 @@
                     alt="Equipo">
             </div>
         </div>
+
         <div class="px-2 mt-10">
             <div class="w-full mx-auto text-lg text-center lg:w-3/5">
                 <h1 class="text-4xl font-black tracking-tight text-gray-700">Nuestra experiencia</h1>
@@ -133,6 +136,28 @@
                             class="w-full grayscale" alt="Fomento Turismo Ibiza">
                     </a>
                 </div>
+            </div>
+        </div>
+
+        <div class="flex flex-wrap px-2 mt-10">
+            <div class="w-full lg:w-1/2">
+                <h2 class="text-4xl font-black tracking-tight text-gray-700">Nuestros valores</h2>
+                <p class="mt-6">
+                    Somos profesionales del sector, y como tal, ofrecemos un compromiso continuo, de atención
+                    personalizada y seguimiento todo el año. Ofrecemos cercanía, con colaboradores, comerciales, y
+                    oficinas de Naturelek Contigo (<em>¿link?</em>). Controlamos y proponemos nuevas mejoras para tu
+                    empresa, presentándote en todo momento las diferentes alternativas del mercado de una manera directa
+                    transparente.
+                </p>
+            </div>
+            <div class="flex flex-col items-center justify-center w-full lg:w-1/2">
+                <div class="mt-6 text-lg font-bold text-green-600">
+                    ¿Quieres ser parte del equipo Naturelek?
+                </div>
+                <a href="/trabaja-con-nosotros"
+                    class="inline-block p-4 m-4 font-bold text-gray-100 bg-green-700 rounded-lg hover:bg-green-800">
+                    ¡Contáctanos!</a>
+
             </div>
         </div>
     </div>
