@@ -66,19 +66,23 @@
                 <h1 class="text-4xl font-black tracking-tight text-gray-700">Nuestra experiencia</h1>
                 <p class="mt-6">
                     Más de 30.000 empresas avalan el trabajo de Naturelek Consulting. Somos además la asesoría
-                    energética oficial de <a href="https://www.fvem.es/es/" class="font-bold hover:underline">FVEM</a>
-                    (Federación Vizcaína de Empresas del Metal), <a href="https://www.cehe.es/"
-                        class="font-bold hover:underline">Federación Española de
-                        Hostelería</a>, <a href="https://www.ithotelero.com/"
-                        class="font-bold hover:underline">Instituto Tecnológico
-                        Hotelero</a>, <a href="http://www.cecobi.es/es/portada/"
-                        class="font-bold hover:underline">Cecobi</a>, <a href="https://www.afm.es/en/home"
-                        class="font-bold hover:underline">Advanced Manufacturing Technologies</a>, <a
-                        href="https://www.afmec.es/" class="font-bold hover:underline">AFMEC</a>, <a
-                        href="https://www.addimat.es/" class="font-bold hover:underline">ADDIMAT</a>, <a
-                        href="https://www.eskuin.com/" class="font-bold hover:underline">Eskuin</a>, <a
-                        href="https://www.descubreibiza.com/es" class="font-bold hover:underline">Fomento Turismo
-                        Ibiza</a>, y muchas más.
+                    energética oficial de
+                    <a href="https://www.fvem.es/es/" class="font-bold text-green-900 hover:underline">FVEM</a>
+                    (Federación Vizcaína de Empresas del Metal),
+                    <a href="https://www.cehe.es/" class="font-bold text-green-900 hover:underline"> Federación Española
+                        de Hostelería</a>,
+                    <a href="https://www.ithotelero.com/" class="font-bold text-green-900 hover:underline">Instituto
+                        Tecnológico Hotelero</a>,
+                    <a href="http://www.cecobi.es/es/portada/"
+                        class="font-bold text-green-900 hover:underline">Cecobi</a>,
+                    <a href="https://www.afm.es/en/home" class="font-bold text-green-900 hover:underline">Advanced
+                        Manufacturing Technologies</a>,
+                    <a href="https://www.afmec.es/" class="font-bold text-green-900 hover:underline">AFMEC</a>,
+                    <a href="https://www.addimat.es/" class="font-bold text-green-900 hover:underline">ADDIMAT</a>,
+                    <a href="https://www.eskuin.com/" class="font-bold text-green-900 hover:underline">Eskuin</a>,
+                    <a href="https://www.descubreibiza.com/es" class="font-bold text-green-900 hover:underline">Fomento
+                        Turismo Ibiza</a>,
+                    y muchas más.
                 </p>
             </div>
             <div class="grid grid-cols-3 gap-4 mx-auto mt-6 lg:w-5/6">
@@ -145,9 +149,10 @@
                 <p class="mt-6">
                     Somos profesionales del sector, y como tal, ofrecemos un compromiso continuo, de atención
                     personalizada y seguimiento todo el año. Ofrecemos cercanía, con colaboradores, comerciales, y
-                    oficinas de <a href="naturelek-contigo" class="font-bold hover:underline">Naturelek Contigo</a>.
-                    Controlamos y proponemos nuevas mejoras para tu empresa, presentándote en todo momento las
-                    diferentes alternativas del mercado de una manera directa transparente.
+                    oficinas de
+                    <a href="naturelek-contigo" class="font-bold text-green-900 hover:underline">Naturelek Contigo</a>.
+                    Controlamos y proponemos nuevas mejoras para tu empresa, presentándote en todo
+                    momento las diferentes alternativas del mercado de una manera directa transparente.
                 </p>
             </div>
             <div class="flex flex-col items-center justify-center w-full lg:w-1/2">
