@@ -61,7 +61,7 @@
 
         <div x-data="{ open: false }">
             <div class="flex justify-between pt-4">
-                <a href="#" class="font-bold hover:text-gray-900">Servicios</a>
+                <a href="/servicios" class="font-bold hover:text-gray-900">Servicios</a>
                 <svg x-show="!open" @click="open = true" class="w-6 h-6 cursor-pointer fill-current" viewBox="0 0 20 20"
                     xmlns="http://www.w3.org/2000/svg">
                     <path d="M12.95 10.707l.707-.707L8 4.343 6.586 5.757 10.828 10l-4.242 4.243L8 15.657l4.95-4.95z" />
