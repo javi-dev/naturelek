@@ -23,7 +23,7 @@
                     La Rioja.
                 </p>
             </div>
-            <div class="self-center mt-6 lg:w-1/2 lg:order-first">
+            <div class="self-center mt-6 lg:mt-0 lg:w-1/2 lg:order-first">
                 <img src="https://res.cloudinary.com/jaquanor/image/upload/v1579469565/naturelek/photo-1497366754035-f200968a6e72_yzznte.jpg"
                     alt="Oficinas">
             </div>
@@ -53,7 +53,7 @@
                     </svg>
                 </a>
             </div>
-            <div class="self-center mt-6 lg:w-1/2 lg:pl-16">
+            <div class="self-center mt-6 lg:mt-0 lg:w-1/2 lg:pl-16">
                 <img src="https://res.cloudinary.com/jaquanor/image/upload/v1579469511/naturelek/photo-1557804506-669a67965ba0_onzftu.jpg"
                     alt="Equipo">
             </div>
@@ -78,7 +78,7 @@
                         Turismo Ibiza</a>, y muchas más. (<em>¿Pongo enlaces a todo esto, ¿no?)</em>)
                 </p>
             </div>
-            <div class="grid grid-cols-3 gap-4 mt-6 lg:w-1/2 lg:order-first">
+            <div class="grid grid-cols-3 gap-4 mt-6 lg:mt-0 lg:w-1/2 lg:order-first">
                 <div class="flex items-center justify-center">
                     <a href="https://www.fvem.es/es/">
                         <img src="https://res.cloudinary.com/jaquanor/image/upload/v1582055818/naturelek/logo-fvem_muvofz.png"
