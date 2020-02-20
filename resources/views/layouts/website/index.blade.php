@@ -24,7 +24,8 @@
         @include('layouts.website.partials.menus.bottom')
     </div>
 
-    <div x-data="{ open: false }" class="sticky top-0 w-full mb-1 text-lg whitespace-no-wrap shadow lg:hidden" x-cloak>
+    <div x-data="{ open: false }" class="sticky top-0 z-10 w-full mb-1 text-lg whitespace-no-wrap shadow lg:hidden"
+        x-cloak>
         <div class="flex items-center justify-between px-8 py-4 bg-green-600">
 
             <a href="/" class="flex items-baseline text-gray-100 hover:text-gray-900">
