@@ -63,19 +63,19 @@
                 <h1 class="text-4xl font-black tracking-tight text-gray-700">Nuestra experiencia</h1>
                 <p class="mt-6">
                     Más de 30.000 empresas avalan el trabajo de Naturelek Consulting. Somos además la asesoría
-                    energética oficial de <a href="https://www.fvem.es/es/" class="font-bold hover:underline">FEVEM</a>
-                    (<em>¿FEVEM O FVEM?</em>) (Federación Vizcaína de Empresas del Metal), <a
-                        href="https://www.cehe.es/" class="font-bold hover:underline">Federación Española de
-                        Hostelería</a> (<em>Creo que ha cambiado de nombre a Hostelería de España</em>), <a
-                        href="https://www.ithotelero.com/" class="font-bold hover:underline">Instituto Tecnológico
+                    energética oficial de <a href="https://www.fvem.es/es/" class="font-bold hover:underline">FVEM</a>
+                    (Federación Vizcaína de Empresas del Metal), <a href="https://www.cehe.es/"
+                        class="font-bold hover:underline">Federación Española de
+                        Hostelería</a>, <a href="https://www.ithotelero.com/"
+                        class="font-bold hover:underline">Instituto Tecnológico
                         Hotelero</a>, <a href="http://www.cecobi.es/es/portada/"
                         class="font-bold hover:underline">Cecobi</a>, <a href="https://www.afm.es/en/home"
                         class="font-bold hover:underline">Advanced Manufacturing Technologies</a>, <a
                         href="https://www.afmec.es/" class="font-bold hover:underline">AFMEC</a>, <a
                         href="https://www.addimat.es/" class="font-bold hover:underline">ADDIMAT</a>, <a
                         href="https://www.eskuin.com/" class="font-bold hover:underline">Eskuin</a>, <a
-                        href="https://www.descubreibiza.com/es" class="font-bold hover:underline">Fomento
-                        Turismo Ibiza</a>, y muchas más. (<em>¿Pongo enlaces a todo esto, ¿no?)</em>)
+                        href="https://www.descubreibiza.com/es" class="font-bold hover:underline">Fomento Turismo
+                        Ibiza</a>, y muchas más.
                 </p>
             </div>
             <div class="grid grid-cols-3 gap-4 mt-6 lg:mt-0 lg:w-1/2 lg:order-first">
