@@ -145,9 +145,9 @@
                 <p class="mt-6">
                     Somos profesionales del sector, y como tal, ofrecemos un compromiso continuo, de atención
                     personalizada y seguimiento todo el año. Ofrecemos cercanía, con colaboradores, comerciales, y
-                    oficinas de Naturelek Contigo (<em>¿link?</em>). Controlamos y proponemos nuevas mejoras para tu
-                    empresa, presentándote en todo momento las diferentes alternativas del mercado de una manera directa
-                    transparente.
+                    oficinas de <a href="naturelek-contigo" class="font-bold hover:underline">Naturelek Contigo</a>.
+                    Controlamos y proponemos nuevas mejoras para tu empresa, presentándote en todo momento las
+                    diferentes alternativas del mercado de una manera directa transparente.
                 </p>
             </div>
             <div class="flex flex-col items-center justify-center w-full lg:w-1/2">
@@ -156,8 +156,8 @@
                 </div>
                 <a href="/trabaja-con-nosotros"
                     class="inline-block p-4 m-4 font-bold text-gray-100 bg-green-700 rounded-lg hover:bg-green-800">
-                    ¡Contáctanos!</a>
-
+                    ¡Contáctanos!
+                </a>
             </div>
         </div>
     </div>
