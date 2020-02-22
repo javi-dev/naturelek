@@ -30,6 +30,8 @@
             </div>
         </div>
 
+        <div id="map" class="w-full h-64 mt-10"></div>
+
         <div class="flex flex-wrap px-2 mt-10">
             <div class="w-full lg:w-1/2">
                 <h2 class="text-4xl font-black tracking-tight text-gray-700">¿Qué ofrecemos?</h2>
@@ -167,4 +169,10 @@
         </div>
     </div>
 </div>
+
+<script src="{{ mix('js/map.js') }}"></script>
+
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCIGtOfXApblOLGuaAWfmZu4q7R_6hHyfA&callback=initMap">
+</script>
 @endsection

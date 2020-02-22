@@ -14,3 +14,5 @@ yarn-error.log
 # Generated files in public folder
 /public/css/app.css
 /public/js/app.js
+/public/js/map.js
+/public/mix-manifest.json

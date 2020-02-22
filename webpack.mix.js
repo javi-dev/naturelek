@@ -15,6 +15,7 @@ require("laravel-mix-purgecss");
  */
 
 mix.js("resources/js/app.js", "public/js")
+    .js("resources/js/map.js", "public/js")
     .postCss("resources/css/app.css", "public/css")
     .tailwind("./tailwind.config.js");
 
@@ -22,7 +23,7 @@ mix.browserSync({
     port: 8080,
     proxy: "localhost:8000",
     open: false,
-    notify:false,
+    notify: false
 });
 
 if (mix.inProduction()) {
