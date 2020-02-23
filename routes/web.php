@@ -17,6 +17,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::view('/', 'nosotros');
 Route::view('/nosotros', 'nosotros');
+Route::view('/sectores', 'sectores');
 Route::view('/servicios', 'servicios');
 
 Route::view('/paleta', 'paleta');

@@ -36,7 +36,7 @@
 
         <div x-data="{ open: false }">
             <div class="flex justify-between pt-4">
-                <a href="#" class="font-bold hover:text-gray-900">Sectores</a>
+                <a href="/sectores" class="font-bold hover:text-gray-900">Sectores</a>
 
                 <svg x-show="!open" @click="open = true" class="w-6 h-6 cursor-pointer fill-current" viewBox="0 0 20 20"
                     xmlns="http://www.w3.org/2000/svg">
