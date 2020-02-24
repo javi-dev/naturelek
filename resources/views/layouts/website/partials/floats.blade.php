@@ -1,13 +1,13 @@
 <div class="fixed bottom-0 flex w-full h-12 whitespace-no-wrap lg:hidden">
     <a href="#"
-        class="flex items-center justify-center w-full px-2 text-gray-100 bg-green-700 border-2 border-green-900 hover:bg-green-700 hover:text-gray-900">
+        class="flex items-center justify-center w-full px-2 text-gray-100 bg-green-700 border-2 border-green-900 hover:text-gray-900">
         Mercado energético en directo
     </a>
 </div>
 
 <div class="fixed flex-col justify-center hidden lg:flex center-y">
     <a href="#"
-        class="flex items-center justify-center w-16 h-16 px-2 text-gray-100 bg-green-700 border-2 border-b border-l-0 border-green-900 rounded-t rounded-tl-none hover:bg-green-700 hover:text-gray-900">
+        class="flex items-center justify-center w-16 h-16 px-2 text-gray-100 bg-green-700 border-2 border-b border-l-0 border-green-900 rounded-t rounded-tl-none hover:text-gray-900">
         Mercado energético en directo
     </a>
     <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ request()->fullUrl() }}&display=popup"
@@ -21,7 +21,7 @@
     </a>
     <a target="_blank"
         href="https://twitter.com/intent/tweet?url={{ request()->fullUrl() }}&text={{ Helpers::encoded_page_title() }}"
-        class="flex items-center justify-center w-16 h-16 text-gray-100 bg-green-700 border-2 border-t-0 border-b border-l-0 border-green-900 hover:text-gray-200 hover:bg-green-700 hover:text-gray-900"
+        class="flex items-center justify-center w-16 h-16 text-gray-100 bg-green-700 border-2 border-t-0 border-b border-l-0 border-green-900 hover:text-gray-200 hover:text-gray-900"
         aria-label="Twitter"
         onclick="event.preventDefault(); window.open('https://twitter.com/intent/tweet?url={{ request()->fullUrl() }}&text={{ Helpers::encoded_page_title() }}', '_blank', 'toolbar=0,location=0,menubar=0')">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 310" class="w-5 h-5 fill-current">
@@ -30,7 +30,7 @@
         </svg>
     </a>
     <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ request()->fullUrl() }}&title={{ Helpers::encoded_page_title() }}"
-        class="flex items-center justify-center w-16 h-16 text-gray-100 bg-green-700 border-2 border-t-0 border-b border-l-0 border-green-900 hover:text-gray-200 hover:bg-green-700 hover:text-gray-900"
+        class="flex items-center justify-center w-16 h-16 text-gray-100 bg-green-700 border-2 border-t-0 border-b border-l-0 border-green-900 hover:text-gray-200 hover:text-gray-900"
         onclick="event.preventDefault(); window.open('https://www.linkedin.com/shareArticle?mini=true&url={{ request()->fullUrl() }}&title={{ Helpers::encoded_page_title() }}', '_blank', 'toolbar=0,location=0,menubar=0')"
         aria-label="LinkedIn">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 455 455" class="w-5 h-5 fill-current">
