@@ -4,7 +4,7 @@
 
 @section('content')
 
-<div class="text-gray-900 bg-white">
+<div class="text-gray-900">
     <div class="max-w-md px-2 mx-auto mt-10 lg:max-w-6xl lg:px-20">
         <div class="flex flex-wrap">
             <div class="w-full lg:w-1/2">
@@ -58,7 +58,7 @@
             </div>
 
             <div class="w-full lg:w-1/2 lg:pl-12">
-                <div class="p-12 mt-6 border border-gray-300 rounded-lg shadow">
+                <div class="p-12 mt-6 bg-white rounded-lg shadow">
                     <p class="text-xl font-bold text-center text-green-500">
                         Nuestro servicio integral incluye
                     </p>

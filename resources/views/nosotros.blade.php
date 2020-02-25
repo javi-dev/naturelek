@@ -3,7 +3,7 @@
 @section('title', 'Nosotros - Naturelek')
 
 @section('content')
-<div class="text-gray-900 bg-white">
+<div class="text-gray-900">
 
     <div class="flex flex-wrap max-w-md px-4 mx-auto mt-10 lg:max-w-6xl lg:px-16">
         <div class="w-full lg:w-1/2 lg:pl-16">

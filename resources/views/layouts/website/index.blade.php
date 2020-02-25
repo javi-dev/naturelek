@@ -15,7 +15,7 @@
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
 </head>
 
-<body>
+<body class="bg-gray-100">
     <div class="hidden mb-1 bg-gray-200 shadow lg:block">
         @include('layouts.website.partials.menus.top')
 
