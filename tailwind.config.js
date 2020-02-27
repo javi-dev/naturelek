@@ -28,6 +28,7 @@ module.exports = {
         }
     },
     variants: {
+        padding: ["responsive", "hover"],
         visibility: ["responsive", "group-hover"]
     },
     plugins: []
