@@ -10,35 +10,35 @@
     <div class="flex flex-wrap justify-center max-w-xl px-2 mx-auto mt-10 lg:max-w-6xl lg:px-20">
         <div class="w-48 h-48 p-2 hover:p-0">
             <a href="#" class="block h-full overflow-hidden rounded-lg shadow-lg">
-                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto/v1582793769/naturelek/stock/abstract-blackboard-bulb-chalk-355948_sknvpi.jpg"
+                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto,w_192,h_128/v1582793769/naturelek/stock/abstract-blackboard-bulb-chalk-355948_sknvpi.jpg"
                     class="object-cover w-full h-32" alt="Bombilla sobre pizarra">
                 <div class="p-4 font-bold text-center text-green-700 whitespace-no-wrap">Gestión energética</div>
             </a>
         </div>
         <div class="w-48 h-48 p-2 hover:p-0">
             <a href="#" class="block h-full overflow-hidden rounded-lg shadow-lg">
-                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto/v1582793771/naturelek/stock/silver-and-black-solar-panels-on-snow-covered-ground-159160_ek4ffp.jpg"
+                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto,w_192,h_128/v1582793771/naturelek/stock/silver-and-black-solar-panels-on-snow-covered-ground-159160_ek4ffp.jpg"
                     class="object-cover w-full h-32" alt="Paneles solares">
                 <div class="p-4 font-bold text-center text-green-700 whitespace-no-wrap">Autoconsumo</div>
             </a>
         </div>
         <div class="w-48 h-48 p-2 hover:p-0">
             <a href="#" class="block h-full overflow-hidden rounded-lg shadow-lg">
-                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto/v1582798618/naturelek/stock/selective-focus-photography-of-turned-on-light-bulb-2177473_q0vnkr.jpg"
+                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto,w_192,h_128/v1582798618/naturelek/stock/selective-focus-photography-of-turned-on-light-bulb-2177473_q0vnkr.jpg"
                     class="object-cover w-full h-32" alt="Bombilla LED">
                 <div class="p-4 font-bold text-center text-green-700 whitespace-no-wrap">Iluminación LED</div>
             </a>
         </div>
         <div class="w-48 h-48 p-2 hover:p-0">
             <a href="#" class="block h-full overflow-hidden rounded-lg shadow-lg">
-                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto/v1582793769/naturelek/stock/abstract-art-blur-bright-373543_gyu82r.jpg"
+                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto,w_192,h_128/v1582793769/naturelek/stock/abstract-art-blur-bright-373543_gyu82r.jpg"
                     class="object-cover w-full h-32" alt="Time Lapse de luces azules">
                 <div class="p-4 font-bold text-center text-green-700 whitespace-no-wrap">Servicios específicos</div>
             </a>
         </div>
         <div class="w-48 h-48 p-2 hover:p-0">
             <a href="#" class="block h-full overflow-hidden rounded-lg shadow-lg">
-                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto/v1583147561/naturelek/stock/close-up-of-telephone-booth-257736_djmvyb.jpg"
+                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto,w_192,h_128/v1583147561/naturelek/stock/close-up-of-telephone-booth-257736_djmvyb.jpg"
                     class="object-cover w-full h-32" alt="Cableado">
                 <div class="p-4 font-bold text-center text-green-700 whitespace-no-wrap">Tecnología</div>
             </a>
