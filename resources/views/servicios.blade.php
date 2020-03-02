@@ -5,9 +5,9 @@
 @section('content')
 
 <div class="text-gray-900">
-    <h1 class="text-4xl font-black tracking-tight text-center text-gray-700">Servicios</h1>
+    <h1 class="mt-10 text-4xl font-black tracking-tight text-center text-gray-700">Servicios</h1>
 
-    <div class="flex flex-wrap justify-between max-w-xl px-2 mx-auto mt-10 lg:max-w-6xl lg:px-20">
+    <div class="flex flex-wrap justify-center max-w-xl px-2 mx-auto mt-10 lg:max-w-6xl lg:px-20">
         <div class="w-48 h-48 p-2 hover:p-0">
             <a href="#" class="block h-full overflow-hidden rounded-lg shadow-lg">
                 <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto/v1582793769/naturelek/stock/abstract-blackboard-bulb-chalk-355948_sknvpi.jpg"
@@ -17,8 +17,8 @@
         </div>
         <div class="w-48 h-48 p-2 hover:p-0">
             <a href="#" class="block h-full overflow-hidden rounded-lg shadow-lg">
-                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto/v1582798160/naturelek/stock/lighted-incandescent-bulb-2938278_grit2d.jpg"
-                    class="object-cover w-full h-32" alt="Bombilla iluminada sostenida entre manos">
+                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto/v1582793771/naturelek/stock/silver-and-black-solar-panels-on-snow-covered-ground-159160_ek4ffp.jpg"
+                    class="object-cover w-full h-32" alt="Paneles solares">
                 <div class="p-4 font-bold text-center text-green-700 whitespace-no-wrap">Autoconsumo</div>
             </a>
         </div>
@@ -38,8 +38,8 @@
         </div>
         <div class="w-48 h-48 p-2 hover:p-0">
             <a href="#" class="block h-full overflow-hidden rounded-lg shadow-lg">
-                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto/v1582793771/naturelek/stock/silver-and-black-solar-panels-on-snow-covered-ground-159160_ek4ffp.jpg"
-                    class="object-cover w-full h-32" alt="Paneles solares">
+                <img src="https://res.cloudinary.com/jaquanor/image/upload/f_auto,fl_lossy,q_auto/v1583147561/naturelek/stock/close-up-of-telephone-booth-257736_djmvyb.jpg"
+                    class="object-cover w-full h-32" alt="Cableado">
                 <div class="p-4 font-bold text-center text-green-700 whitespace-no-wrap">Tecnología</div>
             </a>
         </div>
