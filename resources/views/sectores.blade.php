@@ -81,8 +81,7 @@
     </div>
 
     <div class="text-center">
-        <a href="/contacto"
-            class="inline-block p-4 mt-6 font-bold text-center text-gray-100 bg-green-700 rounded-lg hover:bg-green-800">
+        <a href="/contacto" class="inline-block mt-6 btn btn-green">
             Contacto
         </a>
     </div>

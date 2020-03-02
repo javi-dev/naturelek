@@ -159,8 +159,7 @@
             <div class="mt-6 text-lg font-bold text-green-600">
                 ¿Quieres ser parte del equipo Naturelek?
             </div>
-            <a href="/trabaja-con-nosotros"
-                class="inline-block p-4 m-4 font-bold text-gray-100 bg-green-700 rounded-lg hover:bg-green-800">
+            <a href="/trabaja-con-nosotros" class="inline-block m-4 btn btn-green">
                 ¡Contáctanos!
             </a>
         </div>

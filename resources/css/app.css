@@ -35,6 +35,17 @@
  * @import "components/buttons";
  * @import "components/forms";
  */
+.btn {
+    @apply p-4 font-bold rounded-lg;
+}
+
+.btn-green {
+    @apply text-gray-100 bg-green-700;
+}
+
+.btn-green:hover {
+    @apply bg-green-800;
+}
 
 /**
  * This injects all of Tailwind's utility classes, generated based on your
