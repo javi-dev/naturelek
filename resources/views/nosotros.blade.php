@@ -57,7 +57,7 @@
         </div>
         <div class="self-center mt-6 lg:mt-0 lg:w-1/2 lg:pl-16">
             <img src="https://res.cloudinary.com/jaquanor/image/upload/v1579469511/naturelek/photo-1557804506-669a67965ba0_onzftu.jpg"
-                alt="Equipo">
+                loading="lazy" alt="Equipo">
         </div>
     </div>
 
@@ -89,55 +89,55 @@
             <div class="flex items-center justify-center">
                 <a href="https://www.fvem.es/es/">
                     <img src="https://res.cloudinary.com/jaquanor/image/upload/v1582055818/naturelek/logo-fvem_muvofz.png"
-                        class="w-full grayscale" alt="FVEM">
+                        class="w-full grayscale" loading="lazy" alt="FVEM">
                 </a>
             </div>
             <div class="flex items-center justify-center">
                 <a href="https://www.cehe.es/">
                     <img src="https://res.cloudinary.com/jaquanor/image/upload/e_colorize:100/v1582055818/naturelek/logo_feynbz.png"
-                        class="w-full grayscale" alt="Hostelería de España">
+                        class="w-full grayscale" loading="lazy" alt="Hostelería de España">
                 </a>
             </div>
             <div class="flex items-center justify-center">
                 <a href="https://www.ithotelero.com/">
                     <img src="https://res.cloudinary.com/jaquanor/image/upload/v1582055818/naturelek/logo_ITH_zwmohk.png"
-                        class="w-full grayscale" alt="Instituto Tecnológico Hotelero">
+                        class="w-full grayscale" loading="lazy" alt="Instituto Tecnológico Hotelero">
                 </a>
             </div>
             <div class="flex items-center justify-center">
                 <a href="http://www.cecobi.es/es/portada/">
                     <img src="https://res.cloudinary.com/jaquanor/image/upload/e_grayscale/v1582055818/naturelek/logo-cecobi_f8ev1d.jpg"
-                        class="w-full grayscale" alt="Cecobi">
+                        class="w-full grayscale" loading="lazy" alt="Cecobi">
                 </a>
             </div>
             <div class="flex items-center justify-center">
                 <a href="https://www.afm.es/en/home">
                     <img src="https://res.cloudinary.com/jaquanor/image/upload/v1582055818/naturelek/AFM-Advanced-Manufacturing-Technologies_wwq7lc.svg"
-                        class="w-full grayscale" alt="Advanced Manufacturing Technologies">
+                        class="w-full grayscale" loading="lazy" alt="Advanced Manufacturing Technologies">
                 </a>
             </div>
             <div class="flex items-center justify-center">
                 <a href="https://www.afmec.es/">
                     <img src="https://res.cloudinary.com/jaquanor/image/upload/v1582055817/naturelek/logo-afmec_gfxliy.svg"
-                        class="w-full grayscale" alt="AFMEC">
+                        class="w-full grayscale" loading="lazy" alt="AFMEC">
                 </a>
             </div>
             <div class="flex items-center justify-center">
                 <a href="https://www.addimat.es/">
                     <img src="https://res.cloudinary.com/jaquanor/image/upload/v1582055817/naturelek/addimat-logo_lzmia3.svg"
-                        class="w-full grayscale" alt="ADDIMAT">
+                        class="w-full grayscale" loading="lazy" alt="ADDIMAT">
                 </a>
             </div>
             <div class="flex items-center justify-center">
                 <a href="https://www.eskuin.com/">
                     <img src="https://res.cloudinary.com/jaquanor/image/upload/v1582055817/naturelek/eskuin_dzxhrn.svg"
-                        class="w-full grayscale" alt="Eskuin">
+                        class="w-full grayscale" loading="lazy" alt="Eskuin">
                 </a>
             </div>
             <div class="flex items-center justify-center">
                 <a href="https://www.descubreibiza.com/es">
                     <img src="https://res.cloudinary.com/jaquanor/image/upload/v1582055817/naturelek/fomento_del_turismo_logo_ze8ibs.png"
-                        class="w-full grayscale" alt="Fomento Turismo Ibiza">
+                        class="w-full grayscale" loading="lazy" alt="Fomento Turismo Ibiza">
                 </a>
             </div>
         </div>
